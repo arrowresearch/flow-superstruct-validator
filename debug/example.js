@@ -1,5 +1,5 @@
 /* @flow */
-import { validate } from './index.js';
+import { validate } from '../src/index.js';
 
 type User = {
   name: string,
